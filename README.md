@@ -1,1 +1,2 @@
 # NovaNectar
+This project implements a Face Recognition System (FRS) using deep learning techniques. The system is designed to recognize and differentiate between faces of individuals with high accuracy. It utilizes a convolutional neural network (CNN) for feature extraction and classification tasks.
